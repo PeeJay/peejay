@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[peejay]]></name>
+    <description lang="en"><![CDATA[FFMPEG with libvidstab for gentoo]]></description>
+    <homepage>https://github.com/peejay/peejay</homepage>
+    <owner type="person">
+      <email>paul@pauljones.id.au</email>
+      <name><![CDATA[Paul Jones]]></name>
+    </owner>
+    <source type="git">git://github.com/peejay/peejay.git</source>
+  </repo>
+</repositories>
